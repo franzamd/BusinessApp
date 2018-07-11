@@ -10,6 +10,6 @@ Franz Medrano
 ## Version
 1.0.0
 
-## View in GitHub Pages
+## Ver en Github Pages
 You can view in
 [BusinessApp](https://franzamd.github.io/BusinessApp/) - BusinessApp Web
